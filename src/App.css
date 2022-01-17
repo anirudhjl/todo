@@ -1,0 +1,29 @@
+body {
+  margin-top: 20px;
+}
+
+.btn {
+  float: right;
+}
+
+.container {
+  border: 1px black solid;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 5px 7.5px grey;
+}
+
+.task {
+  background-color: rgb(207, 198, 198);
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+
+p {
+  margin-bottom: 5px;
+}
+
+label {
+  font-weight: bolder;
+}
